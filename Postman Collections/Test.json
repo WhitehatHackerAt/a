@@ -1,0 +1,23 @@
+{
+  "variables": [],
+  "info": {
+    "name": "Test",
+    "_postman_id": "c7dddc55-c2d9-0163-8bdc-bcc4987290ef",
+    "description": "{{access_token}}{{url}}{{repo}}{{collection_json}}{{url}}{{path}}",
+    "schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+  },
+  "item": [
+    {
+      "_postman_id": "10e5db14-832e-d012-abae-a63e2d206210",
+      "name": "google.com",
+      "request": {
+        "url": "google.com",
+        "method": "GET",
+        "header": [],
+        "body": {},
+        "description": ""
+      },
+      "response": []
+    }
+  ]
+}
